@@ -1,140 +1,17 @@
 /*  */
-#el0 {
+#el17 {
 position:absolute;
-left:0;
-top:0;
-width:20;
-height:16
-}
-/*  */
-#el1 {
-position:absolute;
-left:0;
-top:2;
-width:20;
-height:16
-}
-/*  */
-#el2 {
-position:absolute;
-left:30;
-top:0;
-width:201;
-height:16;
-font-size:12;
-letter-spacing:0.3;
-line-height:16px;
-color:#B4BBC2;
-opacity:1.00;
-text-align:inherit;
-white-space:pre-line;
-font-family:'Cabin';
-font-weight:300;
-cursor:pointer;
-text-decoration:none
-}
-/*  */
-#el3 {
-width:231;
-height:18;
-top:109
-}
-/*  */
-#el4 {
-height:230;
-top:600;
-background:rgba(56,55,55,1)
-}
-/*  */
-#el5 {
-position:absolute;
-left:0;
-top:0;
-width:1180;
-height:600
-}
-/*  */
-#el6 {
-position:absolute;
-left:226;
-top:407;
-width:728;
-height:110;
-font-size:51;
-letter-spacing:-2.0;
+left:356;
+top:172;
+width:481;
+height:55;
+font-size:29;
+letter-spacing:-1.2;
 line-height:55px;
 color:#3C3D41;
 opacity:1.00;
 text-align:center;
 white-space:pre-line;
 font-family:'Cabin';
-font-weight:700
-}
-/*  */
-#el8 {
-
-}
-/*  */
-#el9 {
-position:absolute;
-left:108;
-top:0;
-width:102;
-height:142
-}
-/*  */
-#el10 {
-position:absolute;
-left:0;
-top:16;
-width:120;
-height:184
-}
-/*  */
-#el11 {
-position:absolute;
-left:130;
-top:119;
-width:104;
-height:82
-}
-/*  */
-#el12 {
-position:absolute;
-left:473;
-top:123;
-width:235;
-height:203
-}
-/*  */
-#el13 {
-width:1180;
-height:600;
-top:0
-}
-/*  */
-#el14 {
-height:600;
-top:0
-}
-/*  */
-#el15 {
-position:absolute;
-left:0;
-top:830;
-width:648;
-height:75;
-font-size:19;
-letter-spacing:-0.8;
-line-height:75px;
-color:#000000;
-opacity:1.00;
-text-align:center;
-white-space:pre-line;
-font-family:'Montserrat';
-font-weight:100
-}
-/*  */
-#el16 {
-
+font-weight:300
 }
