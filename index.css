@@ -73,20 +73,7 @@ height:49
 }
 /*  */
 #el5 {
-position:absolute;
-left:18;
-top:59;
-width:288;
-height:19;
-font-size:15;
-letter-spacing:2.7;
-line-height:19px;
-color:#B6C3C4;
-opacity:1.00;
-text-align:inherit;
-white-space:pre-line;
-font-family:'Montserrat';
-font-weight:600
+
 }
 /*  */
 #el6 {
@@ -204,14 +191,6 @@ font-weight:300
 /*  */
 #el17 {
 position:absolute;
-left:952;
-top:462;
-width:31;
-height:32
-}
-/*  */
-#el18 {
-position:absolute;
 left:492;
 top:543;
 width:197;
@@ -227,7 +206,7 @@ font-family:'Cabin';
 font-weight:300
 }
 /*  */
-#el19 {
+#el18 {
 position:absolute;
 left:536;
 top:514;
@@ -244,15 +223,7 @@ font-family:'Cabin';
 font-weight:300
 }
 /*  */
-#el20 {
-position:absolute;
-left:574;
-top:462;
-width:31;
-height:32
-}
-/*  */
-#el21 {
+#el19 {
 position:absolute;
 left:104;
 top:543;
@@ -269,7 +240,7 @@ font-family:'Cabin';
 font-weight:300
 }
 /*  */
-#el22 {
+#el20 {
 position:absolute;
 left:147;
 top:514;
@@ -286,7 +257,7 @@ font-family:'Cabin';
 font-weight:300
 }
 /*  */
-#el23 {
+#el21 {
 position:absolute;
 left:569;
 top:247;
@@ -294,7 +265,7 @@ width:31;
 height:30
 }
 /*  */
-#el24 {
+#el22 {
 position:absolute;
 left:848;
 top:324;
@@ -311,7 +282,7 @@ font-family:'Cabin';
 font-weight:300
 }
 /*  */
-#el25 {
+#el23 {
 position:absolute;
 left:875;
 top:295;
@@ -328,7 +299,7 @@ font-family:'Cabin';
 font-weight:300
 }
 /*  */
-#el26 {
+#el24 {
 position:absolute;
 left:951;
 top:233;
@@ -336,7 +307,7 @@ width:48;
 height:48
 }
 /*  */
-#el27 {
+#el25 {
 position:absolute;
 left:476;
 top:332;
@@ -353,7 +324,7 @@ font-family:'Cabin';
 font-weight:300
 }
 /*  */
-#el28 {
+#el26 {
 position:absolute;
 left:533;
 top:295;
@@ -370,15 +341,7 @@ font-family:'Cabin';
 font-weight:300
 }
 /*  */
-#el29 {
-position:absolute;
-left:187;
-top:466;
-width:31;
-height:25
-}
-/*  */
-#el30 {
+#el27 {
 position:absolute;
 left:130;
 top:296;
@@ -395,7 +358,7 @@ font-family:'Cabin';
 font-weight:300
 }
 /*  */
-#el31 {
+#el28 {
 position:absolute;
 left:226;
 top:107;
@@ -412,7 +375,7 @@ font-family:'Cabin';
 font-weight:700
 }
 /*  */
-#el32 {
+#el29 {
 position:absolute;
 left:96;
 top:333;
@@ -429,7 +392,7 @@ font-family:'Cabin';
 font-weight:300
 }
 /*  */
-#el33 {
+#el30 {
 position:absolute;
 left:183;
 top:241;
@@ -437,18 +400,18 @@ width:31;
 height:32
 }
 /*  */
-#el34 {
+#el31 {
 width:1180;
 height:754;
 top:0
 }
 /*  */
-#el35 {
+#el32 {
 height:754;
 top:776
 }
 /*  */
-#el36 {
+#el33 {
 position:absolute;
 left:0;
 top:0;
@@ -465,7 +428,7 @@ font-family:'Cabin';
 font-weight:300
 }
 /*  */
-#el37 {
+#el34 {
 position:absolute;
 left:199;
 top:180;
@@ -473,7 +436,7 @@ width:586;
 height:114
 }
 /*  */
-#el38 {
+#el35 {
 position:absolute;
 left:0;
 top:43;
@@ -490,7 +453,7 @@ font-family:'Cabin';
 font-weight:300
 }
 /*  */
-#el39 {
+#el36 {
 position:absolute;
 left:0;
 top:0;
@@ -507,7 +470,7 @@ font-family:'Cabin';
 font-weight:300
 }
 /*  */
-#el40 {
+#el38 {
 position:absolute;
 left:0;
 top:0;
@@ -515,11 +478,11 @@ width:140;
 height:48
 }
 /*  */
-#el41 {
+#el39 {
 position:absolute;
-left:35;
+left:46;
 top:14;
-width:71;
+width:49;
 height:19;
 font-size:15;
 letter-spacing:0.0;
@@ -532,56 +495,25 @@ font-family:'Cabin';
 font-weight:300
 }
 /*  */
-#el42 {
+#el37 {
 position:absolute;
-left:330;
+left:400;
 top:197;
 width:140;
-height:48
+height:48;
+cursor:pointer;
+text-decoration:none
 }
 /*  */
-#el43 {
-position:absolute;
-left:0;
-top:0;
-width:140;
-height:48
-}
-/*  */
-#el44 {
-position:absolute;
-left:45;
-top:14;
-width:50;
-height:19;
-font-size:15;
-letter-spacing:0.0;
-line-height:19px;
-color:#FFFFFF;
-opacity:1.00;
-text-align:center;
-white-space:pre-line;
-font-family:'Cabin';
-font-weight:600
-}
-/*  */
-#el45 {
-position:absolute;
-left:490;
-top:197;
-width:140;
-height:48
-}
-/*  */
-#el46 {
+#el40 {
 position:absolute;
 left:8;
 top:390;
-width:630;
+width:540;
 height:245
 }
 /*  */
-#el47 {
+#el41 {
 position:absolute;
 left:0;
 top:43;
@@ -598,7 +530,7 @@ font-family:'Cabin';
 font-weight:300
 }
 /*  */
-#el48 {
+#el42 {
 position:absolute;
 left:0;
 top:0;
@@ -615,7 +547,7 @@ font-family:'Cabin';
 font-weight:300
 }
 /*  */
-#el49 {
+#el43 {
 position:absolute;
 left:762;
 top:387;
@@ -623,7 +555,7 @@ width:229;
 height:123
 }
 /*  */
-#el50 {
+#el44 {
 position:absolute;
 left:0;
 top:40;
@@ -640,7 +572,7 @@ font-family:'Cabin';
 font-weight:300
 }
 /*  */
-#el51 {
+#el45 {
 position:absolute;
 left:0;
 top:0;
@@ -657,7 +589,7 @@ font-family:'Cabin';
 font-weight:300
 }
 /*  */
-#el52 {
+#el46 {
 position:absolute;
 left:363;
 top:393;
@@ -665,7 +597,7 @@ width:284;
 height:100
 }
 /*  */
-#el53 {
+#el47 {
 position:absolute;
 left:99;
 top:19;
@@ -682,7 +614,7 @@ font-family:'Cabin';
 font-weight:300
 }
 /*  */
-#el54 {
+#el48 {
 position:absolute;
 left:0;
 top:0;
@@ -696,10 +628,12 @@ opacity:1.00;
 text-align:center;
 white-space:pre-line;
 font-family:'Cabin';
-font-weight:600
+font-weight:600;
+cursor:pointer;
+text-decoration:none
 }
 /*  */
-#el55 {
+#el49 {
 position:absolute;
 left:144;
 top:0;
@@ -709,14 +643,14 @@ font-size:15;
 letter-spacing:0.0;
 line-height:19px;
 color:#FFFFFF;
-opacity:1.00;
+opacity:0.20;
 text-align:center;
 white-space:pre-line;
 font-family:'Cabin';
 font-weight:600
 }
 /*  */
-#el56 {
+#el50 {
 position:absolute;
 left:241;
 top:0;
@@ -730,10 +664,12 @@ opacity:1.00;
 text-align:center;
 white-space:pre-line;
 font-family:'Cabin';
-font-weight:600
+font-weight:600;
+cursor:pointer;
+text-decoration:none
 }
 /*  */
-#el57 {
+#el51 {
 position:absolute;
 left:656;
 top:19;
@@ -741,7 +677,7 @@ width:333;
 height:19
 }
 /*  */
-#el58 {
+#el52 {
 position:absolute;
 left:40;
 top:0;
@@ -749,7 +685,7 @@ width:38;
 height:52
 }
 /*  */
-#el59 {
+#el53 {
 position:absolute;
 left:0;
 top:6;
@@ -757,7 +693,7 @@ width:45;
 height:68
 }
 /*  */
-#el60 {
+#el54 {
 position:absolute;
 left:48;
 top:44;
@@ -765,7 +701,7 @@ width:39;
 height:30
 }
 /*  */
-#el61 {
+#el55 {
 position:absolute;
 left:0;
 top:0;
@@ -773,19 +709,19 @@ width:87;
 height:75
 }
 /*  */
-#el62 {
+#el56 {
 width:991;
 height:635;
 top:65
 }
 /*  */
-#el63 {
+#el57 {
 height:775;
 top:0;
-background-image:url('images/o6djrBackground_Image.jpg')
+background-image:url('images/jahffBackground_Image.jpg')
 }
 /*  */
-#el64 {
+#el58 {
 position:absolute;
 left:0;
 top:1758;
@@ -802,6 +738,6 @@ font-family:'Montserrat';
 font-weight:100
 }
 /*  */
-#el65 {
+#el59 {
 
 }
